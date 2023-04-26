@@ -1,7 +1,7 @@
 import React from 'react';
 import { Doughnut } from 'react-chartjs-2';
 
-// Drawing d
+// Drawing do
 const DoughnutChart = (props) => {
   
 const data = {
