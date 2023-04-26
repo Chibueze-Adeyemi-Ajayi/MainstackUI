@@ -1,6 +1,7 @@
 import $ from "jquery";
 
 // jquery HTTP GET request
+
 const sendResquest = (callback) => {
     $.get("https://fe-task-api.mainstack.io/", response => {
         callback(response);
