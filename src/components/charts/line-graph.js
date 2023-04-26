@@ -1,7 +1,7 @@
 import React from "react";
 import { Line } from "react-chartjs-2";
 
-// lineg
+// linegr
 const LineGraph = (props) => {
 
 var labels = [], points = [], point_label = [];
